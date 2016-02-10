@@ -1,0 +1,19 @@
+{
+  "name": "launch-browser",
+  "version": "1.0.0",
+  "description": "Detect, launch and stop web browser from NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miskun/launch-browser.git"
+  },
+  "author": "Miska Kaipiainen <miska.kaipiainen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miskun/launch-browser/issues"
+  },
+  "homepage": "https://github.com/miskun/launch-browser",
+  "dependencies": {
+    "browser-launcher3": "^0.4.4"
+  }
+}
